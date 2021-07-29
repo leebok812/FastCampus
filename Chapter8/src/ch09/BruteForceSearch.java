@@ -21,4 +21,7 @@ public class BruteForceSearch {
 			}
 		}
 
-		System.out.println("吏
+		System.out.println("지불 가능한 가지 수는 : " + count + "가지 입니다.");
+
+	}
+}
