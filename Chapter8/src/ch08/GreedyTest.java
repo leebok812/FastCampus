@@ -13,4 +13,8 @@ public class GreedyTest {
 			count += price / coins[i];
 			price = price % coins[i]; 
 			
-			System.out.println( coins[i] + "吏
+			System.out.println( coins[i] + "짜리 동전 " + "가 필요합니다.");
+		}
+
+	}
+}
